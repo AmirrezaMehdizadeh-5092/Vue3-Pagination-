@@ -1,8 +1,8 @@
-# vue-project
+# Vue3-Pagination
 
 vue3 pagination example with vue-awesome-paginate
 
-## info 
+## vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
 
