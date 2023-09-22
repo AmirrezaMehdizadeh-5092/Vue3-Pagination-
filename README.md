@@ -18,6 +18,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 vuetify
 
+## feature
+
+pinia for state managment
+vue-router
+vue-awesome-paginate for pagination
+
 ## Project Setup
 
 ```sh
